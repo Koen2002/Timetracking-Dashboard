@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  /* border: 1px solid red; */
+}
+
+:root {
+  --font-primary: 'Rubik', sans-serif;
+  --background-color: #0E1323;
+  --background-color-templates: #1C204B;
+  --text-color: #ffffff;
+}
